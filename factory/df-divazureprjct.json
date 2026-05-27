@@ -1,0 +1,15 @@
+{
+	"name": "df-divazureprjct",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0eda2f6-ac22-4d19-a478-84be5181daf6",
+		"tenantId": "589f54f7-97a4-4bd2-99d4-52fb744d9b67"
+	}
+}
